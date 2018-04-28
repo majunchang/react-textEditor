@@ -79,3 +79,24 @@ textarea{
   left: -3px;
   z-index: 100;
 }
+
+
+
+.ceshi{
+  width: 680px;
+  height: 680px;
+  border: 2px solid pink;
+  display: inline-block;
+  float: left;
+}
+
+.ceshi img{
+  width: 200px;
+  
+}
+
+.App-box{
+  text-align: center;
+    display: inline-block;
+    margin-left: 30px;
+}
